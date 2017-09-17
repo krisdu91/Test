@@ -10,5 +10,5 @@ git remote add origin https://github.com/krisdu91/Test.git
 
 git push -u origin master
 
-username github email
-password github password
+username: github-email
+password: github-password
